@@ -1,6 +1,7 @@
 # my-vvp
 
-> vue-video-player 可运行实例
+> vue-video-player 可运行实例 
+> 这是git项目
 
 ### 依赖插件只有两个
 
